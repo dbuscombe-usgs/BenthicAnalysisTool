@@ -1,0 +1,11 @@
+1-Bedrock
+2-Boulder
+3-Cobble
+4-Pebble
+5-Gravel
+6-Sand
+7-Mud
+8-Coral Reef
+9-Coral Rubble
+0-Coral Gravel
+

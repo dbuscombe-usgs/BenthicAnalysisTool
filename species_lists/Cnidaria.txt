@@ -1,0 +1,135 @@
+OTU2; Cerianthid: red tentacles
+OTU3; Edwardsid anemone: transparent
+OTU4; Actiniaria: Large red anemone
+OTU6; Caryophyllid (robust)
+OTU12; Actiniaria: Large bolocera like (pink/orange) anemone
+OTU18; Sagartid anemone: fine tentacles
+OTU23; Halcampoid anemone: transparent body and orange tentacles
+OTU25; Cnidaria: red possible medusa
+OTU37; Caryophyllid (warm)
+OTU38; Halcampoid anemone
+OTU39; Corallimorph anemone: transparent red, fat tentacles
+OTU40; Sagartid anemone
+OTU41; Sagartid anemone
+OTU43; Corallimorph anemone: transparent with red area
+OTU49; Gorgonian: Yellow
+OTU50; Hydroid
+OTU53; Actiniaria: yellow with bands on tentacles
+OTU56; Hydroid: branched
+OTU59; Gorgonian
+OTU64; Alcyonacea: Gersemia sp. 
+OTU109; Actiniaria: orange anemone
+OTU111; Actiniaria: purple tentacles
+OTU117; Alcyonacea: pink broccoli looking
+OTU120; Hydroid: Purple tubularid hydroid 
+OTU122; Zoanthid: orange
+OTU126; Halcampoid anemone: pale pinky orange
+OTU127; Hydroid: Tubularia sp
+OTU132; Actiniaria: bright ornage Bolocera looking
+OTU134; Halcampoid anemone: stripy tentacle
+OTU138; Alcyonacea: Gersemia sp.
+OTU140; Alcyonacea: pink cauliflour thing
+OTU147; Scyphozoa: half orange with tentacles
+OTU148; Halcampoid anemone: peach
+OTU149; Pennatulid: thin pink
+OTU163; Anthozoan: white thin peapen looking
+OTU165; Anthozoan: pink
+OTU175; Hydroid: tall branching
+OTU177; Sagartid anemone
+OTU183; Gorgonian: pink/orange
+OTU184; Hydroid: flustra looking
+OTU186; Hydroid
+OTU192; Caryophyllid (cold)
+OTU207; Stylasterid: Pliobothrus sp.
+OTU217; Actiniaria: Large anemone
+OTU219; Alcyonacea: Drifa sp. (purple)
+OTU221; Hydroidomedusa: Candelabrum sp.
+OTU222; Hydroid
+OTU248; Hydroid
+OTU250; Scleractinian: Lophelia pertusa
+OTU251; Scleractinian: Madrepora oculata
+OTU255; Actiniaria: Phelliactis sp.
+OTU257; Gorgonian: yellow
+OTU268; Gorgonian: dead?
+OTU278; Alcyonacea: Anthomastus grandiflora
+OTU280; Gorgonian: Callogorgia verticillata
+OTU282; Gorgonian: Acanaella sp.
+OTU283; Antipatharian: Stichopathes cf. gravieri
+OTU284; Antipatharian: Bathypathes patula
+OTU289; Alcyonacea
+OTU293; Gorgonian
+OTU297; Actiniaria: peach anemone
+OTU305; Antipatharian: Leiopathes sp. 
+OTU307; Gorgonian
+OTU310; Actiniaria: solitary polyp
+OTU311; Octocoral: Anthothela grandiflora
+OTU316; Actiniaria
+OTU317; Zoanthid: Epizoanthus sp. 
+OTU319; Actiniaria: Protanthea simplex
+OTU320; Antipatharian: cf. Antipathella sp
+OTU323; Octocoral: small polyps
+OTU327; Gorgonian: pink
+OTU328; Antipatharian: Bathypathes sp
+OTU330; Gorgonian
+OTU331; Gorgonian
+OTU334; Gorgonian: Isididae sp
+OTU335; Caryophyllid: Desmophyllum sp
+OTU343; Alcyonacea
+OTU344; Actiniaria: red
+OTU345; Actiniaria
+OTU346; Alcyonacea: yellow polyps
+OTU360; Caryophyllid 
+OTU361; Stylasterid: Stylaster sp.
+OTU365; Scleractinian: dead Lophelia pertusa
+OTU367; Octocoral: red encrusting species
+OTU385; Pennatulid: Virgularia mirabilis
+OTU400; Halcampoid anemone: banded
+OTU405; Actiniaria
+OTU413; Anthozoan
+OTU428; Caryophyllid 
+OTU434; Pennatulid
+OTU442; Pennatulid: Kophobelemnon stelliferum
+OTU444; Pennatulid: Funiculina quadrangularis
+OTU450; Hexacoral: possible zoanthid
+OTU458; Cerianthid 
+OTU462; Cerianthid
+OTU467; Unknown: orange
+OTU478; Actiniaria: associated with coral
+OTU486; Pennatulid: Pennatula phosphorea
+OTU490; Actiniaria
+OTU494; Gorgonian: bamboo coral
+OTU499; Actiniaria: Actinauge richardi
+OTU500; Caryophyllid: Caryophyllia smithii
+OTU505; Actiniaria: pink
+OTU507; Alcyonacea
+OTU510; Actiniaria: burrowing anemone
+OTU512; Octocoral
+OTU514; Cnidaria: hydroid or sea pen
+OTU539; Gorgonian: cream/yellow unbranching
+OTU540; Antipatharian: feather-like
+OTU544; Gorgonian: Acanthogorgia granulata
+OTU545; Gorgonian: Paramuricea biscaya
+OTU546; Gorgonian: Placogorgia graciosa
+OTU547; Antipatharian: Stauropathes arctica
+OTU548; Scleractinian: Flabellum alabastrum
+OTU549; Scleractinian: Stephanocyathus nobilis
+OTU554; Actiniaria: large purple anemone
+OTU557; Gorgonian: sea whip
+OTU558; Gorgonian: bamboo coral
+OTU560; Antipatharian: stichopathes?
+OTU561; Antipatharian
+OTU564; Gorgonian/antipatharian?
+OTU567; Gorgonian
+OTU578; Gorgonian: pink
+OTU579; Gorgonian: orange
+OTU581; Pennatulid: Umbellula sp.
+OTU582; Actiniaria
+OTU584; Caryophyllid: large
+OTU585; Gorgonian
+OTU586; Zoanthid
+OTU592; Antipatharian: orange
+OTU594; Pennatulid: Anthoptilum graniflorum
+OTU605; Anemone: small orange
+OTU608; Gorgonian
+OTU612; Antipatharian
+OTU617; Gorgonian: Swifitia ?

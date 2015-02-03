@@ -1,0 +1,120 @@
+OTU11; Majid crab
+OTU24; Bryozoa: grey encrusting
+OTU32; Mollusca: saddle oyster
+OTU33; Mollusca: Chiton
+OTU34; Brachiopod: cream, heart shaped with fringe.
+OTU47; Mollusca: encrusting lumps
+OTU54; Sabellid: leathery/mud covered tube
+OTU57; Decapod: Pandalus borealis (red shrimp with white legs)
+OTU62; Bryozoa: Cyclostome
+OTU73; Cephalopod
+OTU74; Mollusca: Bathypolypus sp.
+OTU82; Barnacle: Cirripedia sp.
+OTU104; Bryozoa: Cyclostome?
+OTU106; Serpulid
+OTU113; Gastropod: Buccinum looking
+OTU130; Pycnogonid: brown robust thing
+OTU142; Crustacean: mysid
+OTU145; Unknown: stalk with cup
+OTU146; Annelid: Polynoidae/Aphroditidae sp. 
+OTU152; Crustacean: Munnopsurus giganteus
+OTU159; Unknown: transparent tube
+OTU160; Unknown: worm tubes
+OTU161; Pycnogonid: orangy/red thin
+OTU164; Pycnogonid: white
+OTU166; Mollusca: Benthoctopus / Bathypolypus
+OTU167; Unknown: pink/purple funnel shaped
+OTU173; Sabellid: tube worm on rocks
+OTU176; Amphipod: orange, red eyes
+OTU179; Nudibranch: pink
+OTU185; Bryozoa: Cyclostome
+OTU193; Bryozoa
+OTU200; Squat lobster: Mundia
+OTU204; Bryozoa: Reteporella sp.  
+OTU205; Decapod: Paguridae spp
+OTU212; Echiuran: long clear plastic tube
+OTU223; Bryozoa
+OTU225; Pycnogonid: big red and yellow
+OTU228; Serpulid
+OTU235; Decapod: Bathynectes sp.
+OTU239; Decapod: Shrimp, pale pink
+OTU243; Gastropod: Capulus sp. 
+OTU244; Bivalve
+OTU247; Annelid: Papert tube, no sign of worm
+OTU253; Bryozoa: Cyclostome
+OTU254; Decapod: Chaceon affinis
+OTU261; Foram: Syringammina fragillissima
+OTU262; Annelid: Lanice sp.
+OTU267; Echiuran: Bonellia viridis
+OTU270; Gastropod: white spiral
+OTU275; Serpulid
+OTU276; Spirorbid
+OTU277; Mollusca: Margarites sp
+OTU285; Decapod: Majidae sp
+OTU286; Mollusca: scallop
+OTU300; Mollusca
+OTU301; Mollusca
+OTU304; Decapod: Paromola cuvieri
+OTU312; Unknown
+OTU321; Nudibranch
+OTU337; Decapod
+OTU339; Squat lobster: Pale with red eyes
+OTU352; Polychaete: tubes on rocks
+OTU355; Gastropod
+OTU356; Amphipod
+OTU357; Terebellid
+OTU362; Polychaete: short tubes in sand 
+OTU366; Bivalve: pale
+OTU368; Mollusca: Pteropod
+OTU369; Phoronida
+OTU370; Unknown
+OTU372; Polychaete
+OTU373; Unknown
+OTU375; Polychaete
+OTU379; Unknown
+OTU384; Nemertina
+OTU393; Amphipod: Epimeria loricata
+OTU397; Polychaete
+OTU404; Crustacean: Mysida sp
+OTU410; Polychaete
+OTU411; Unknown
+OTU412; Unknown
+OTU414; Unknown
+OTU417; Unknown
+OTU421; Unknown
+OTU443; Decapod: Nephrops norvegicus
+OTU449; Polychaete
+OTU452; Unknown
+OTU453; Faecal trace
+OTU461; Unknown
+OTU465; Faecal trace
+OTU473; Unknown
+OTU475; Unknown
+OTU481; Unknown
+OTU482; Unknown
+OTU484; Unknown: worm tubes
+OTU487; Unknown
+OTU496; Decapod
+OTU501; Unknown
+OTU508; Unknown
+OTU511; Unknown
+OTU519; Gastropod: tower shell
+OTU523; Polychaete
+OTU526; Unknown
+OTU528; Unknown
+OTU530; Unknown
+OTU532; Unknown
+OTU533; Unknown
+OTU541; Scale worm: Polynoidae/Aphroditidae sp. 2
+OTU543; Decapod: Orange
+OTU556; Mollusca
+OTU588; Annelid
+OTU589; Bryozoa
+OTU595; Liebenspurren
+OTU596; Unknown
+OTU597; Annelid
+OTU601; Unknown: sponge?
+OTU603; Unknown: projections from sand
+OTU607; Crustacean: long clawed squat lobster
+OTU613; Unknown: Holothurian?
+OTU618; Crustacean: Parasitic isopod

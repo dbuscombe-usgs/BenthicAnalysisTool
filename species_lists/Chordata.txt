@@ -1,0 +1,49 @@
+OTU8; Ascidian: yellow/green
+OTU20; Ascidian: Large with digestive tract visible
+OTU123; Ascidian: colonial
+OTU128; Fish: Cottunculus microps
+OTU172; Fish: Lycodes sp.
+OTU174; Fish: Gaidropsarus argenteus (orange/red)
+OTU213; Fish: Lycodes esmarki
+OTU227; Fish: Helicolenus dactylopterus
+OTU238; Fish: large ray
+OTU245; Fish: Molva spp.
+OTU249; Fish: Lepidion eques
+OTU258; Fish: Brosme brosme
+OTU259; Fish
+OTU265; Fish: Chimaera monstrosa
+OTU272; Fish: Galeus melastomus
+OTU273; Fish: Lophius piscatorius
+OTU291; Fish: Zoarcid
+OTU294; Fish: Sebastes sp.
+OTU296; Fish: Zoarcid
+OTU303; Fish: grenadier
+OTU313; Fish: macurid
+OTU341; Fish: Zoarcid
+OTU349; Fish: Morid
+OTU382; Fish: Rajidae sp
+OTU383; Fish: Myxine glutinosa
+OTU401; Fish: Morid
+OTU427; Fish: Mora moro
+OTU439; Fish: Micromesistius poutassou
+OTU440; Fish: eel-like
+OTU441; Fish: Lepidorhombus boscii
+OTU446; Fish: Coelorinchus/Trachyrincus
+OTU447; Fish: flatfish
+OTU476; Fish: Actinopterygii sp
+OTU488; Fish: small
+OTU527; Fish: Coryphanoides guentheri (pointed nose grenadier)
+OTU552; Fish: eel-like
+OTU563; Fish: Neocyttus sp.
+OTU565; Ascidian: large   
+OTU566; Fish: grenadier
+OTU568; Fish
+OTU569; Fish: shark
+OTU570; Fish: dogfish
+OTU571; Fish: eel-like
+OTU577; Fish
+OTU580; Fish: small
+OTU583; Fish: dogfish
+OTU591; Ascidian
+OTU593; Fish: Grenadier
+OTU610; Fish: small

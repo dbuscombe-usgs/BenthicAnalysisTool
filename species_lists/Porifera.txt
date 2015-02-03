@@ -1,0 +1,97 @@
+OTU1 Sponge: encrusting, white, smooth
+OTU5; Sponge: massive lobose, cream, prominent oscula, rock
+OTU7; Sponge: encrusting, green-mint, projections
+OTU9; Sponge: encrusting, orange, pore sieves
+OTU13; Sponge: encrusting, green-lime, smooth 
+OTU14; Sponge: encrusting, grey, punctate 
+OTU15; Sponge: encrusting, blue, pore sieves
+OTU16; Sponge: spherical, cream, verrucose, rock
+OTU17; Sponge: encrusting, white, cloudy, smooth
+OTU19; Sponge: encrusting, purple, pore sieves 
+OTU21; Sponge: encrusting, white, canals
+OTU22; Sponge: massive lobose, white, punctate, sediment
+OTU30; Sponge: bright yellow spiky encrusting
+OTU45; Sponge: encrusting, white, punctate
+OTU48; Sponge: mustart yellow spikey encrusting
+OTU51; Sponge: pale yellow encrusting
+OTU52; Sponge: encrusting, white, projections
+OTU58; Sponge: bright yellow smooth encrusting, prominent oscula
+OTU61; Sponge: massive globose, yellow, uneven
+OTU75; Sponge: massive globose, yellow, single osculum, rock
+OTU76; Sponge: massive lobose, brown-yellow, sediment
+OTU77; Sponge: lamellate, cream, hirsute, stalk, rock
+OTU78; Sponge: encrusting, blue, mainly smooth
+OTU79; Sponge: massive lobose, white, chimneys, sediment
+OTU80; Sponge: massive globose, cream, 2 oscula, rock
+OTU81; Sponge: lamellate, cream, smooth, rock
+OTU83; Sponge: massive lobose, white, pore sieves, line of oscula, rock
+OTU102; Sponge: bright yellow patterned encrusting, pore sieves, canals
+OTU103; Sponge: massive globose, cream, single osculum, Pheronema looking
+OTU105; Sponge: encrusting, cream, sieve pores, canals
+OTU112; Sponge: encrusting, white, smooth with veins
+OTU114; Sponge: encrusting, white, punctate, prominent oscula
+OTU115; Sponge: boring, green, rock
+OTU118; Sponge: encrusting, red, smooth, rock
+OTU119; Sponge: encrusting, grey, smooth
+OTU124; Sponge: cuplike (vase), cream, puctate, stalked, rock
+OTU125; Sponge: massive globose, yellow, oscular chimneys, hirsute circumference, rock
+OTU137; Sponge: massive globose, white, oscular chimneys, rock
+OTU143; Sponge: spherical, white, hirsute, rock
+OTU151; Sponge: massive globose, white, oscular chimneys, hirsute circumference, rock
+OTU155; Sponge: encrusting, cream, smooth
+OTU169; Sponge: massive lobose, cream, uneven, rock
+OTU171; Sponge: massive lobose, cream, prominent oscula, rock
+OTU181; Sponge: lamellate, cream, uneven, rock
+OTU191; Sponge: encrusting, yellow, uneven
+OTU196; Sponge: Geodia sp (massive globose, white, pore sieves)
+OTU197; Sponge: encrusting, green, pore sieves, rock
+OTU201; Sponge: encrusting, grey, hispid
+OTU202; Sponge: Phakellia ventilabrum
+OTU209; Sponge: encrusting, pale yellow spiky
+OTU215; Sponge: lamellate, cream, tuberculate, stalked, rock
+OTU232; Sponge: massive lobose, cream, villose, rock
+OTU236; Sponge: massive lobose, white, oscular chimneys, punctate, rock
+OTU237; Sponge: encrusting, white, pore sieves, rock
+OTU264; Sponge: massive lobose, white, branching, sediment
+OTU281; Sponge: branching-erect, yellow, smooth, rock
+OTU336; Sponge: spherical, white, single osculum, coral gravel
+OTU338; Sponge: massive globose, yellow, oscular chimneys, coarse sand
+OTU347; Sponge: Pheronema carpenteri
+OTU350; Sponge: encrusting, brown, hirsute
+OTU351; Sponge: massive lobose, white, hispid, rock
+OTU353; Sponge: massive lobose, white, uneven, rock
+OTU358; Sponge: encrusting, pink-pale, sand cover
+OTU359; Sponge: encrusting, pink-pale, smooth
+OTU363; Sponge: encrusting, orange, projections
+OTU380; Sponge: massive globose, white, branching processes, rock
+OTU386; Sponge: encrusting, yellow, pore sieves, canals
+OTU387; Sponge: massive fig, yellow, single osculum, rock
+OTU389; Sponge: massive lobose, cream, uneven, rock
+OTU391; Sponge: encrusting, orange, smooth
+OTU396; Sponge: cuplike, cream, punctate, rock
+OTU399; Sponge: lamellate, cream, uneven, rock
+OTU402; Sponge: encrusting, yellow, smooth
+OTU403; Sponge: cuplike, cream smooth
+OTU407; Sponge: massive globose, white, oscular chimneys, sediment
+OTU409; Sponge: lamellate, white, uneven, coarse sediment
+OTU418; Sponge: massive lobose, cream, smooth, coarse sediment
+OTU420; Sponge: encrusting, green-mint, canals
+OTU422; Sponge: lamellate, cream, punctate, rock
+OTU425; Sponge: massive lobose, cream, oscular chimneys, rock
+OTU431; Sponge: encrusting, yellow-pale, branching processes
+OTU455; Sponge: encrusting, orange-dirty, smooth
+OTU535; Sponge: Cup, white
+OTU550; Sponge: large lobose/cup shaped white sponge
+OTU562; Sponge: white lobose
+OTU575; Sponge: green encrusting
+OTU576; Sponge: lobose sponge
+OTU590; Sponge: Lamellate
+OTU599; Sponge: green on sand
+OTU602; Sponge: white projections
+OTU604; Sponge: white spiky
+OTU606; Sponge: brown lamellate
+OTU609; Sponge: blue encrusting with channels
+OTU611; Sponge: green lobose sponge
+OTU614; Sponge: White encrusting on coral
+OTU615; Sponge; Transparent encrusting on coral
+OTU616; Sponge: Yellow glass sponge
