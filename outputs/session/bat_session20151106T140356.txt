@@ -1,0 +1,31 @@
+%session began at 2015-11-06 14:03:56
+%------------------------
+%User selected /home/dbuscombe/github_clones/BenthicAnalysisTool/calib_images/calib0.jpg
+%User selected /home/dbuscombe/github_clones/BenthicAnalysisTool/calib_images/calib1.jpg
+%User selected /home/dbuscombe/github_clones/BenthicAnalysisTool/calib_images/calib2.jpg
+%User selected /home/dbuscombe/github_clones/BenthicAnalysisTool/calib_images/calib3.jpg
+%navfile input: Nav_d2.txt
+%------------------------
+%Timestamp1 2011/05/13 13:21:3200
+%XY1 0 0
+%Altitude1 0
+%Lat/Long1 59.851 -7.0693
+%------------------------
+%------------------------
+%Timestamp2 2011/05/13 13:23:0300
+%XY2 0 0
+%Altitude2 0
+%Lat/Long2 59.851 -7.0693
+%------------------------
+%------------------------
+%Timestamp3 2011/05/13 13:23:3700
+%XY3 0 0
+%Altitude3 0
+%Lat/Long3 59.851 -7.0693
+%------------------------
+%------------------------
+%Timestamp4 2011/05/13 13:24:1400
+%XY4 0 0
+%Altitude4 0
+%Lat/Long4 59.851 -7.0694
+%------------------------

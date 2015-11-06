@@ -1,0 +1,124 @@
+%session began at 2015-11-06 14:05:10
+%------------------------
+%User selected /home/dbuscombe/Photos_Web_Res/RC0307Rb/RC0025L_20150108_0759_web.jpg
+%User selected /home/dbuscombe/Photos_Web_Res/RC0307Rb/RC0025L_20150108_0859_web.jpg
+%User selected /home/dbuscombe/Photos_Web_Res/RC0307Rb/RC0025L_20150108_0959_web.jpg
+%User selected /home/dbuscombe/Photos_Web_Res/RC0307Rb/RC0025L_20150108_1059_web.jpg
+%User selected /home/dbuscombe/Photos_Web_Res/RC0307Rb/RC0025L_20150108_1159_web.jpg
+%User selected /home/dbuscombe/Photos_Web_Res/RC0307Rb/RC0025L_20150108_1259_web.jpg
+%User selected /home/dbuscombe/Photos_Web_Res/RC0307Rb/RC0025L_20150108_1359_web.jpg
+%User selected /home/dbuscombe/Photos_Web_Res/RC0307Rb/RC0025L_20150108_1459_web.jpg
+%User selected /home/dbuscombe/Photos_Web_Res/RC0307Rb/RC0025L_20150108_1559_web.jpg
+%User selected /home/dbuscombe/Photos_Web_Res/RC0307Rb/RC0025L_20150108_1659_web.jpg
+%User selected /home/dbuscombe/Photos_Web_Res/RC0307Rb/RC0025L_20150109_0759_web.jpg
+%User selected /home/dbuscombe/Photos_Web_Res/RC0307Rb/RC0025L_20150109_0859_web.jpg
+%navfile input: Nav_d2.txt
+%------------------------
+%Timestamp1 2011/05/13 13:21:3200
+%XY1 0 0
+%Altitude1 0
+%Lat/Long1 59.851 -7.0693
+%------------------------
+%------------------------
+%Timestamp2 2011/05/13 13:23:0300
+%XY2 0 0
+%Altitude2 0
+%Lat/Long2 59.851 -7.0693
+%------------------------
+%------------------------
+%Timestamp3 2011/05/13 13:23:3700
+%XY3 0 0
+%Altitude3 0
+%Lat/Long3 59.851 -7.0693
+%------------------------
+%------------------------
+%Timestamp4 2011/05/13 13:24:1400
+%XY4 0 0
+%Altitude4 0
+%Lat/Long4 59.851 -7.0694
+%------------------------
+%------------------------
+%Timestamp5 2011/05/13 13:25:1700
+%XY5 0 0
+%Altitude5 0
+%Lat/Long5 59.851 -7.0693
+%------------------------
+%------------------------
+%Timestamp6 2011/05/13 13:26:1600
+%XY6 0 0
+%Altitude6 0
+%Lat/Long6 59.851 -7.0692
+%------------------------
+%------------------------
+%Timestamp7 2011/05/13 13:27:1700
+%XY7 0 0
+%Altitude7 0
+%Lat/Long7 59.851 -7.0692
+%------------------------
+%------------------------
+%Timestamp8 2011/05/13 13:29:1800
+%XY8 0 0
+%Altitude8 0
+%Lat/Long8 59.8509 -7.069
+%------------------------
+%------------------------
+%Timestamp9 2011/05/13 13:30:2700
+%XY9 0 0
+%Altitude9 0
+%Lat/Long9 59.8509 -7.069
+%------------------------
+%------------------------
+%Timestamp10 2011/05/13 13:31:2200
+%XY10 0 0
+%Altitude10 0
+%Lat/Long10 59.8509 -7.069
+%------------------------
+%------------------------
+%Timestamp11 2011/05/13 13:32:2200
+%XY11 0 0
+%Altitude11 0
+%Lat/Long11 59.8509 -7.069
+%------------------------
+%------------------------
+%Timestamp12 2011/05/13 13:33:2400
+%XY12 0 0
+%Altitude12 0
+%Lat/Long12 59.8509 -7.0691
+%------------------------
+%Area (pixels^{2}): 
+34199.000
+%Length (pixels): 
+152.000
+%Area (pixels^{2}): 
+22520.000
+%------------------------
+%Counts made on image: RC0025L_20150108_0759_web.jpg
+%Count type: Other
+%------------------------
+%Class: Other
+%Count: OTU73;
+632.125 391.678
+%Confidence: v. high
+  1.00
+632.125 391.678
+%------------------------
+%Class: Other
+%Count: OTU73;
+284.575 486.330
+%Confidence: v. high
+  2.00
+284.575 486.330
+%------------------------
+%Class: Other
+%Count: OTU73;
+763.751 514.430
+%Confidence: v. high
+  3.00
+763.751 514.430
+%------------------------
+%Class: Other
+%Count: OTU73;
+865.797 273.364
+%Confidence: v. high
+  4.00
+865.797 273.364

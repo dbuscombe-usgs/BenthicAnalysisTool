@@ -1,0 +1,136 @@
+%session began at 2015-11-06 14:13:27
+%------------------------
+%User selected /home/dbuscombe/vegtest/vegtest-000001.jpeg
+%User selected /home/dbuscombe/vegtest/vegtest-000002.jpeg
+%User selected /home/dbuscombe/vegtest/vegtest-000003.jpeg
+%User selected /home/dbuscombe/vegtest/vegtest-000004.jpeg
+%User selected /home/dbuscombe/vegtest/vegtest-000005.jpeg
+%User selected /home/dbuscombe/vegtest/vegtest-000006.jpeg
+%User selected /home/dbuscombe/vegtest/vegtest-000007.jpeg
+%User selected /home/dbuscombe/vegtest/vegtest-000008.jpeg
+%navfile input: Nav_d2.txt
+%------------------------
+%Timestamp1 2011/05/13 13:21:3200
+%XY1 0 0
+%Altitude1 0
+%Lat/Long1 59.851 -7.0693
+%------------------------
+%------------------------
+%Timestamp2 2011/05/13 13:23:0300
+%XY2 0 0
+%Altitude2 0
+%Lat/Long2 59.851 -7.0693
+%------------------------
+%------------------------
+%Timestamp3 2011/05/13 13:23:3700
+%XY3 0 0
+%Altitude3 0
+%Lat/Long3 59.851 -7.0693
+%------------------------
+%------------------------
+%Timestamp4 2011/05/13 13:24:1400
+%XY4 0 0
+%Altitude4 0
+%Lat/Long4 59.851 -7.0694
+%------------------------
+%------------------------
+%Timestamp5 2011/05/13 13:25:1700
+%XY5 0 0
+%Altitude5 0
+%Lat/Long5 59.851 -7.0693
+%------------------------
+%------------------------
+%Timestamp6 2011/05/13 13:26:1600
+%XY6 0 0
+%Altitude6 0
+%Lat/Long6 59.851 -7.0692
+%------------------------
+%------------------------
+%Timestamp7 2011/05/13 13:27:1700
+%XY7 0 0
+%Altitude7 0
+%Lat/Long7 59.851 -7.0692
+%------------------------
+%------------------------
+%Timestamp8 2011/05/13 13:29:1800
+%XY8 0 0
+%Altitude8 0
+%Lat/Long8 59.8509 -7.069
+%------------------------
+%------------------------
+%Counts made on image: vegtest-000001.jpeg
+%Count type: Other
+%------------------------
+%Class: Other
+%Count: OTU11;
+670.304 283.637
+%Confidence: v. high
+  1.00
+670.304 283.637
+%------------------------
+%Class: Other
+%Count: OTU11;
+858.539 578.539
+%Confidence: v. high
+  2.00
+858.539 578.539
+%------------------------
+%Class: Other
+%Count: OTU11;
+322.069 227.167
+%Confidence: v. high
+  3.00
+322.069 227.167
+%------------------------
+%Class: Other
+%Count: OTU11;
+991.873 224.029
+%Confidence: v. high
+  4.00
+991.873 224.029
+%Area (pixels^{2}): 
+94402.000
+%Area (pixels^{2}): 
+80890.000
+%Area (pixels^{2}): 
+13009.000
+%Area (pixels^{2}): 
+22517.000
+%------------------------
+%Substrate assigned to image: vegtest-000001.jpeg
+%substrate type: 5-Gravel
+%------------------------
+%Secondary substrate assigned to image: vegtest-000001.jpeg
+%substrate type: 3-Cobble
+%Length (pixels): 
+116.000
+%Length (pixels): 
+116.000
+%------------------------
+%Counts made on image: vegtest-000001.jpeg
+%Count type: Cnidaria
+%------------------------
+%Class: Cnidaria
+%Count: OTU307
+326.775 153.441
+%Confidence: medium
+  1.00
+326.775 153.441
+%------------------------
+%Class: Cnidaria
+%Count: OTU307
+1013.833 164.422
+%Confidence: v. high
+  2.00
+1013.833 164.422
+%Area (pixels^{2}): 
+92435.000
+%------------------------
+%Substrate assigned to image: vegtest-000001.jpeg
+%substrate type: 5-Gravel
+%------------------------
+%Substrate assigned to image: vegtest-000001.jpeg
+%substrate type: 4-Pebble
+%------------------------
+%Secondary substrate assigned to image: vegtest-000001.jpeg
+%substrate type: 6-Sand
